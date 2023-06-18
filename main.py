@@ -4,7 +4,7 @@ import subprocess
 import datetime
 import win32com.client
 import webbrowser
-import openai
+import ai
 
 def say(text):
     speaker = win32com.client.Dispatch("SAPI.SpVoice")
