@@ -1,5 +1,3 @@
-Sure! Here's an example README file for the REX-AI project:
-
 # REX-AI
 
 REX-AI is an AI-powered virtual assistant developed in Python. It utilizes speech recognition and natural language processing to understand user commands and provide relevant responses.
