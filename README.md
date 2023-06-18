@@ -26,10 +26,11 @@ REX-AI is an AI-powered virtual assistant developed in Python. It utilizes speec
 2. Navigate to the project directory:
 
 3. Install the required dependencies:
-
-4.Create file config.py in root
-  4.1 apikey = "<your openai api key>"
-#[How to get OpenAI API key](https://platform.openai.com/account/api-keys)
+4. Create file config.py in root
+   
+   4.1 apikey = "&lt;your openai api key&gt;"
+  
+    #### [How to get OpenAI API key](https://platform.openai.com/account/api-keys)
 
 ## Usage
 
