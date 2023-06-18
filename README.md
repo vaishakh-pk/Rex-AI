@@ -34,10 +34,10 @@ REX-AI is an AI-powered virtual assistant developed in Python. It utilizes speec
 
 ## Usage
 
-1. Run the `rex-ai.py` script:
+1. Run the `main.py` script:
 
    ```
-   python rex-ai.py
+   python main.py
    ```
 
 2. REX-AI will listen for user commands through the microphone. Speak clearly and wait for the prompt before providing a command or question.
